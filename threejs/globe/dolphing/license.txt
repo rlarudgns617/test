@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dolphing
+* source:	https://sketchfab.com/3d-models/dolphing-fa8bd5121f0a413ab341fd671acf0c25
+* author:	SR_Spark (https://sketchfab.com/SR_Spark)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dolphing" (https://sketchfab.com/3d-models/dolphing-fa8bd5121f0a413ab341fd671acf0c25) by SR_Spark (https://sketchfab.com/SR_Spark) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
